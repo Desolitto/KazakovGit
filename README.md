@@ -25,7 +25,7 @@
 
 **CreditScoring**  
 Задачей было построить скоринг модель для вторичных клиентов банка, которая бы предсказывала вероятность дефолта клиента. Для этого нужно было определить значимые параметры заемщика.  
-***Результат по CreditScoring*** - score ROC-AUC = 0.73854, 7 место на kaggle из 74 команд закрытого соревнования (Top 10%).
+***Результат по CreditScoring*** - score ROC-AUC = 0.73854, 7 место на kaggle из 74 команд закрытого соревнования (Top 10%).  
 :arrow_left:[к CreditScoring](https://github.com/Desolitto/KazakovGit/tree/master/CreditScoring)
 
 :arrow_up:[к оглавлению](https://github.com/Desolitto/KazakovGit/edit/master/README.md#Оглавление)
