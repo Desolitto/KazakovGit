@@ -21,7 +21,7 @@
 
 **Restaurant Rating prediction**  
 Задача - построить модель предсказывающую рейтинг ресторана на сайте TripAdvisor. Одна из проблем TripAdvisorа — это нечестные рестораны, которые накручивают себе рейтинг. Одним из способов нахождения таких ресторанов, является построение модели, которая предсказывает рейтинг ресторана. Если предсказания модели сильно отличаются от фактического результата, то, возможно, ресторан играет нечестно, и его стоит проверить. 
-:arrow_up:[к Restaurant Rating prediction](https://github.com/Desolitto/KazakovGit/tree/master/Restaurant%20Rating%20prediction)
+:arrow_left:[к Restaurant Rating prediction](https://github.com/Desolitto/KazakovGit/tree/master/Restaurant%20Rating%20prediction)
 
 **CreditScoring**  
 Задачей было построить скоринг модель для вторичных клиентов банка, которая бы предсказывала вероятность дефолта клиента. Для этого нужно было определить значимые параметры заемщика.  
