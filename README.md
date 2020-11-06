@@ -1,1 +1,1 @@
-# KazakovGit
+EDA and ML projects
