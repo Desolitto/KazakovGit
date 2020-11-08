@@ -6,7 +6,7 @@ ____
 ---
 
 [1. Суть проекта](https://github.com/Desolitto/KazakovGit/blob/master/EDA%20math/README.md#Суть-проекта)  
-[2. Краткая информация о данных](https://github.com/Desolitto/KazakovGit/blob/master/REDA%20math/README.md#Краткая-информация-о-данных)  
+[2. Краткая информация о данных](https://github.com/Desolitto/KazakovGit/blob/master/EDA%20math/README.md#Краткая-информация-о-данных)  
 [3. Этапы работы над проектом](https://github.com/Desolitto/KazakovGit/blob/master/EDA%20math/README.md#Этапы-работы-над-проектом)  
 [4. Результат](https://github.com/Desolitto/KazakovGit/blob/master/EDA%20math/README.md#Результат)    
 
