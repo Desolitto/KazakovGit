@@ -4,10 +4,10 @@ ____
 
 ### Оглавление  
 ---
-[1. Суть проекта](https://github.com/Desolitto/KazakovGit/edit/master/README.md#Суть-проекта)  
-[2. Краткая информация о данных](https://github.com/Desolitto/KazakovGit/edit/master/README.md#Краткая-информация-о-данных)  
-[3. Этапы работы над проектом](https://github.com/Desolitto/KazakovGit/edit/master/README.md#Этапы-работы-над-проектом)  
-[4. Результат]()  
+[1. Суть проекта](https://github.com/Desolitto/KazakovGit/blob/master/CreditScoring/README.md#Суть-проекта)  
+[2. Краткая информация о данных](https://github.com/Desolitto/KazakovGit/blob/master/CreditScoring/README.md#Краткая-информация-о-данных)  
+[3. Этапы работы над проектом](https://github.com/Desolitto/KazakovGit/blob/master/CreditScoring/README.md#Этапы-работы-над-проектом)  
+[4. Результат](https://github.com/Desolitto/KazakovGit/blob/master/CreditScoring/README.md#Результат)   
 
 
 ## Суть проекта
@@ -18,7 +18,7 @@ ____
 
 Датасет содержит информацию о заемщиках, которые уже брали кредиты (повторных клиентов).  
 Информация предоставлена из анкетных данных заемщиков и факт наличия дефолта.  
-:arrow_up:[к оглавлению](https://github.com/Desolitto/KazakovGit/edit/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Desolitto/KazakovGit/blob/master/CreditScoring/README.md#Оглавление)
 
 #### Описание полей датасета:
 
@@ -42,7 +42,7 @@ ____
 - app_date - дата подачи заявки
 - default - флаг дефолта по кредиту
 
-:arrow_up:[к оглавлению](https://github.com/Desolitto/KazakovGit/edit/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Desolitto/KazakovGit/blob/master/CreditScoring/README.md#Оглавление)
 
 
 ## Этапы работы над проектом  
@@ -58,9 +58,9 @@ ____
 - Подготовка данных к машинному обучению;  
 - Регуляризация;  
 - Обучение модели.  
-:arrow_up:[к оглавлению](https://github.com/Desolitto/KazakovGit/edit/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Desolitto/KazakovGit/blob/master/CreditScoring/README.md#Оглавление)
 
 ## Результат  
 
 score ROC-AUC = 0.73854, 7 место на kaggle из 74 команд закрытого соревнования (Top 10%).:arrow_right:[к kaggle leaderboard](https://www.kaggle.com/c/sf-dst-scoring/leaderboard)  
-:arrow_up:[к оглавлению](https://github.com/Desolitto/KazakovGit/edit/master/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Desolitto/KazakovGit/blob/master/CreditScoring/README.md#Оглавление)
